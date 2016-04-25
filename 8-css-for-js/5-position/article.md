@@ -339,7 +339,7 @@ position: fixed;
 
 ## Почитать
 
-CSS-позиционирование по-настоящему глубоко в спецификации <a href="http://www.w3.org/TR/CSS2/visuren.html#positioning-scheme">Visual Formatting Model, 9.3 и ниже</a>.
+CSS-позиционирование по-настоящему глубоко описано в спецификации <a href="http://www.w3.org/TR/CSS2/visuren.html#positioning-scheme">Visual Formatting Model, 9.3 и ниже</a>.
 
 Еще есть хорошее руководство <a href="http://www.barelyfitz.com/screencast/html-training/css/positioning/">CSS Positioning in 10 steps</a>, которое охватывает основные типы позиционирования.
 
